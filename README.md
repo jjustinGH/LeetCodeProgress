@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0143-reorder-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -23,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
