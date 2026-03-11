@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
