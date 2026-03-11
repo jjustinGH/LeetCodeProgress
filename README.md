@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0141-linked-list-cycle/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0206-reverse-linked-list/) | Easy |
@@ -31,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0141-linked-list-cycle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
