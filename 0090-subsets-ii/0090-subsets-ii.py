@@ -1,14 +1,18 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        ans = []
         nums.sort()
-        def re(cands: List[int], curr: List[int]):
+        ans = []
+
+        def re(start: int, curr: List[int]):
             ans.append(curr[:])
-            for i in range(len(cands)):
-                if i > 0 and cands[i] == cands[i - 1]:
+
+            for i in range(start, len(nums)):
+                if i > start and nums[i] == nums[i - 1]:
                     continue
-                curr.append(cands[i])
-                re(cands[i+1:],curr)
-                temp = curr.pop()
-        re(nums,[])
+
+                curr.append(nums[i])
+                re(i + 1, curr)
+                curr.pop()
+
+        re(0, [])
         return ans
