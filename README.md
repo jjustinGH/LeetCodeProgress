@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -57,4 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
