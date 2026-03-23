@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0090-subsets-ii/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
