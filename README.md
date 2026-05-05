@@ -101,4 +101,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1179-reformat-department-table/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1211-queries-quality-and-percentage/) | Easy |
 <!---LeetCode Topics End-->
