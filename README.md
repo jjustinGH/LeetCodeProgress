@@ -98,4 +98,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 <!---LeetCode Topics End-->
