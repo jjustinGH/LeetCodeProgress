@@ -83,4 +83,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/jjustinGH/LeetCodeProgress/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
