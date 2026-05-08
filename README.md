@@ -127,4 +127,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1965-employees-with-missing-information](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jjustinGH/LeetCodeProgress/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3436-find-valid-emails](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3436-find-valid-emails/) | Easy |
 <!---LeetCode Topics End-->
