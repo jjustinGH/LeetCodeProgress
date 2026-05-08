@@ -124,4 +124,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1795-rearrange-products-table](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->
