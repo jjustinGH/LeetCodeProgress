@@ -121,4 +121,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-find-total-time-spent-by-each-employee](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1795-rearrange-products-table](https://github.com/jjustinGH/LeetCodeProgress/tree/main/1795-rearrange-products-table/) | Easy |
 <!---LeetCode Topics End-->
