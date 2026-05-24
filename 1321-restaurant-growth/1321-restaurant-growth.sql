@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select visited_on, sum(amount) over (order by visited_on ROWS BETWEEN 6 PRECEDING AND CURRENT ROW) as amount, round(avg(amount) over (order by visited_on ROWS BETWEEN 6 PRECEDING AND CURRENT ROW),2) as average_amount from (select visited_on, sum(amount) as amount from customer group by visited_on) t order by visited_on limit 6,1000000
