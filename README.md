@@ -155,5 +155,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3436-find-valid-emails](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3475-dna-pattern-recognition/) | Medium |
+| [3497-analyze-subscription-conversion](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
