@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select distinct a.student_id, a.subject, a.score as first_score, b.score as latest_score from scores a join scores b on a.student_id = b.student_id and a.subject = b.subject and a.score < b.score and (a.student_id, a.subject, a.exam_date) in (select student_id, subject, min(exam_date) from scores group by student_id, subject) and (b.student_id, b.subject, b.exam_date) in (select student_id, subject, max(exam_date) from scores group by student_id, subject) order by a.student_id, a.subject
