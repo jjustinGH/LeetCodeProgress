@@ -157,5 +157,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-dna-pattern-recognition](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3521-find-product-recommendation-pairs/) | Medium |
+| [3564-seasonal-sales-analysis](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/jjustinGH/LeetCodeProgress/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
